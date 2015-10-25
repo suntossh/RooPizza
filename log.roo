@@ -1,5 +1,5 @@
 // Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2015-10-21 10:19:33
-hint
+
 project --topLevelPackage com.suntossh.pizzaProject
 jpa setup --provider HIBERNATE --database HYPERSONIC_IN_MEMORY
 hint
